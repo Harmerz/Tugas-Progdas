@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "xstring": "cpp"
+    },
+}
